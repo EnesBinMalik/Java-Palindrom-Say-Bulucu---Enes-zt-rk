@@ -1,0 +1,6 @@
+{
+  "name": "Java Palindrom Sayı Bulucu - Enes Öztürk",
+  "description": "Java ile bir sayının Palindromik sayı olup olmadığını kontrol eden, adım adım algoritma görselleştirmesi, Java kaynak kodları ve palindrom analiz araçları sunan interaktif eğitim uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
